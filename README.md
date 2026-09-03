@@ -17,6 +17,15 @@
 - [查看项目](https://github.com/AE0506/agent-skill-engineering)
 - [查看 Skill 入口](https://github.com/AE0506/agent-skill-engineering/blob/main/skills/engineering-delivery/SKILL.md)
 
+### [坤舆小助手 · 公开 Mock 版](https://github.com/AE0506/kunyu-assistant-public-mock)
+
+一个以安全边界为先的微信小程序实践归档：用合成课程数据与本机 FastAPI Mock 展示信息架构、数据建模和联调方式。
+
+它不接入真实教务系统，也不处理凭据、会话或真实身份数据；相关限制被写入界面、文档与测试。
+
+- [查看项目](https://github.com/AE0506/kunyu-assistant-public-mock)
+- [查看架构说明](https://github.com/AE0506/kunyu-assistant-public-mock/blob/main/docs/ARCHITECTURE.md)
+
 ## Currently Building
 
 - **BSUS · 择校信息系统**  
