@@ -1,12 +1,12 @@
 # 张正 · AE0506
 
-> 信息管理与信息系统本科生 · AI / Agent · Python · Web Applications
+> 信息管理与信息系统本科生 · AI Agent · Python · Web 应用
 
 我目前就读于河北大学，关注 AI Agent、软件工程工作流，以及面向真实需求的 Web 应用。
 
 我感兴趣的不只是“让 Agent 完成任务”，而是让它在合适的时候行动、在边界之外停下，并对结果提供真实可核对的证据。我正在逐步把这些思考和项目整理为少量、可运行、可解释的公开作品。
 
-## Open Source
+## 开源项目
 
 ### [Agent Skill Engineering](https://github.com/AE0506/agent-skill-engineering)
 
@@ -26,17 +26,17 @@
 - [查看项目](https://github.com/AE0506/kunyu-assistant-public-mock)
 - [查看架构说明](https://github.com/AE0506/kunyu-assistant-public-mock/blob/main/docs/ARCHITECTURE.md)
 
-## Currently Building
+## 正在构建
 
 - **BSUS · 择校信息系统**  
   信息系统分析与设计课程项目：面向考生规划院校与专业浏览、录取数据查询及按位次推荐。  
   *当前正推进数据采集和需求分析。*
 
-- **Skill Launch Review**  
+- **Skill 发布评估**  
   探索如何基于 GitHub 竞品、结构质量、行为证据和发布准备度，判断一个 Agent Skill 是否值得构建或开源。  
   *研究与设计中。*
 
-## How I Build
+## 我的开发方式
 
 我希望每个公开项目都能说明四件事：
 
@@ -47,6 +47,6 @@
 
 我重视安全边界，但不希望把它变成 Agent 停滞不前的借口。好的工程约束应当防止未经授权或不可追溯的行为，同时让正常工作继续向前。
 
-## Looking Forward
+## 持续学习
 
 我正在持续学习 AI、Agent、软件工程与产品开发，并逐步公开能够在复试、实习和真实协作中经得起追问的作品。
