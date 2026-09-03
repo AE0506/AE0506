@@ -1,47 +1,43 @@
 # 张正 · AE0506
 
-> Building reliable, useful tools with AI and software engineering.
+> 信息管理与信息系统本科生 · AI / Agent · Python · Web Applications
 
-我是一名信息管理与信息系统专业本科生，关注 AI、Agent 与 Web 应用开发。
+我目前就读于河北大学，关注 AI Agent、软件工程工作流，以及面向真实需求的 Web 应用。
 
-我希望把一个想法做成真正可用的产品：有清晰的问题边界、可靠的数据与逻辑、可验证的结果，以及能持续迭代的工程结构。
+我感兴趣的不只是“让 Agent 完成任务”，而是让它在合适的时候行动、在边界之外停下，并对结果提供真实可核对的证据。我正在逐步把这些思考和项目整理为少量、可运行、可解释的公开作品。
 
-## Focus
+## Open Source
 
-- AI / Agent 应用与工作流设计
-- Python 与 Web 全栈开发
-- 数据驱动的决策支持工具
-- 面向真实用户的产品设计与迭代
+### [Agent Skill Engineering](https://github.com/AE0506/agent-skill-engineering)
 
-## Building
+一个关于 Agent Skill 设计的公开探索项目。
+
+当前已发布 `engineering-delivery` v0.1：它把产品、文档和软件工程任务按规模与风险路由，并强调安全授权、最小改动和真实验证。
+
+- [查看项目](https://github.com/AE0506/agent-skill-engineering)
+- [查看 Skill 入口](https://github.com/AE0506/agent-skill-engineering/blob/main/skills/engineering-delivery/SKILL.md)
+
+## Currently Building
 
 - **考研择校系统**  
-  将院校信息、筛选条件与个人偏好组织为可理解、可比较的决策流程。
-
-- **Agent Skill Engineering**  
-  探索如何为 AI Agent 设计清晰的触发条件、安全边界、验证方式与可复用工作流。
+  把院校信息、筛选条件和个人偏好整理为可理解、可比较的决策流程。  
+  *开发中，尚未公开。*
 
 - **Skill Launch Review**  
-  一个用于评估 Agent Skill 是否值得构建或发布的想法：结合 GitHub 竞品扫描、严格评分和发布准备度判断。
+  探索如何基于 GitHub 竞品、结构质量、行为证据和发布准备度，判断一个 Agent Skill 是否值得构建或开源。  
+  *研究与设计中。*
 
-## How I Work
+## How I Build
 
-我重视：
+我希望每个公开项目都能说明四件事：
 
-- **真实**：不把未验证的结果当作完成。
-- **边界**：外部写操作、隐私数据与高风险行为应先明确授权。
-- **可验证**：尽可能提供可运行的说明、测试或复现路径。
-- **持续迭代**：先完成核心闭环，再根据反馈逐步完善。
+1. 它解决什么真实问题；
+2. 为什么采用这样的设计；
+3. 已经验证了什么；
+4. 还存在哪些限制。
 
-## Selected Work
+我重视安全边界，但不希望把它变成 Agent 停滞不前的借口。好的工程约束应当防止未经授权或不可追溯的行为，同时让正常工作继续向前。
 
-项目正在整理并逐步开源。每个公开项目会提供：
+## Looking Forward
 
-- 清晰的 README 与启动说明
-- 功能边界和技术选择说明
-- 可复现的验证方式
-- 版本更新与已知限制
-
----
-
-正在学习，也正在构建。欢迎交流 AI、Agent、产品开发与软件工程实践。
+我正在持续学习 AI、Agent、软件工程与产品开发，并逐步公开能够在复试、实习和真实协作中经得起追问的作品。
