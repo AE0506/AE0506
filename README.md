@@ -26,6 +26,16 @@
 - [查看项目](https://github.com/AE0506/kunyu-assistant-public-mock)
 - [查看架构说明](https://github.com/AE0506/kunyu-assistant-public-mock/blob/main/docs/ARCHITECTURE.md)
 
+
+## 私有写作存档
+
+### AI、0854 与考研学习经验（私有）
+
+一篇关于 AI、0854 学习路径与考研备考工具的个人自述和经验分享，含原文与文艺润色版。
+
+- **仓库状态：私有，仅本人及已获授权的协作者可见。**
+- [私有文章仓库](https://github.com/AE0506/desktop-tutorial)
+
 ## 正在构建
 
 - **BSUS · 择校信息系统**  
